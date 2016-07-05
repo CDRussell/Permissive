@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PermissionHelper</string>
+    <string name="action_settings">Settings</string>
+    <string name="rationale_for_permission">I really need this permission otherwise the app will not work.</string>
+</resources>

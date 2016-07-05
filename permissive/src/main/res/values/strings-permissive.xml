@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permissive_permission_required">Permission required</string>
+    <string name="permissive_next">NEXT</string>
+    <string name="permissive_settings">SETTINGS</string>
+
+</resources>
